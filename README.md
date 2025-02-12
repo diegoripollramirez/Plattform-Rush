@@ -19,20 +19,20 @@ Developed using **C#** in **Unity**, the game offers a fun, fast-paced experienc
 
 ## Installation
 
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 - **Unity**: Make sure you have Unity installed (Version X.X or later).
 - **JDK**: Install Java Development Kit (JDK) version X.X or later.
 - **MySQL**: Ensure that MySQL is installed and running to store player data.
 - **.NET Framework**: Required for C# development (if needed).
 
-### 3. Set Up the Database
+### 2. Set Up the Database
 
 - Ensure that **MySQL** is configured correctly. 
 - Set up the necessary tables in the database for storing player data and progress.
 - Check the backend configuration for database connection details and credentials.
 
-### 4. Run the Backend Server
+### 3. Run the Backend Server
 
 - Navigate to the server directory where the backend code is located.
 - Run the server:
@@ -41,7 +41,7 @@ Developed using **C#** in **Unity**, the game offers a fun, fast-paced experienc
   cd server
   java -jar server.jar
  
-### 5. Run the Game
+### 4. Run the Game
 
 - Open the project in **Unity**.
 - Hit **Play** to start the game in the Unity editor.
